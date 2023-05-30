@@ -10,19 +10,19 @@
 
  }
  .help-dima-animation-1{
-    animation: helpHelp1 8s infinite;
+    animation: helpHelp1 4s infinite;
 }
 .help-dima-animation-2{
-    animation: helpHelp2 8s infinite;
+    animation: helpHelp2 4s infinite;
 }
 .help-dima-animation-3{
-    animation: helpHelp3 8s infinite;
+    animation: helpHelp3 4s infinite;
 }
 .help-dima-animation-4{
-    animation: helpHelp4 8s infinite;
+    animation: helpHelp4 4s infinite;
 }
 .help-dima-animation-5{
-    animation: helpHelp5 8s infinite;
+    animation: helpHelp5 4s infinite;
 }
 @keyframes helpHelp1{
     0%{
