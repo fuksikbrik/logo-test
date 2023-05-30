@@ -1,0 +1,100 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+.help-dima{
+    background-color: black;
+    
+    
+  
+
+ }
+ .help-dima-animation-1{
+    animation: helpHelp1 8s infinite;
+}
+.help-dima-animation-2{
+    animation: helpHelp2 8s infinite;
+}
+.help-dima-animation-3{
+    animation: helpHelp3 8s infinite;
+}
+.help-dima-animation-4{
+    animation: helpHelp4 8s infinite;
+}
+.help-dima-animation-5{
+    animation: helpHelp5 8s infinite;
+}
+@keyframes helpHelp1{
+    0%{
+        opacity: 0;
+    }
+    10%{
+        opacity: 1;
+    }
+    90%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+ }
+ @keyframes helpHelp2{
+    0%{
+        opacity: 0;
+    }
+    15%{
+        opacity: 1;
+    }
+    85%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+ }
+ @keyframes helpHelp3{
+    0%{
+        opacity: 0;
+    }
+    20%{
+        opacity: 1;
+    }
+    80%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+ }
+ @keyframes helpHelp4{
+    0%{
+        opacity: 0;
+    }
+    25%{
+        opacity: 1;
+    }
+    75%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+ }
+ @keyframes helpHelp5{
+    0%{
+        opacity: 0;
+    }
+    30%{
+        opacity: 1;
+    }
+    70%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+ }
+ 
+
+ 
+
