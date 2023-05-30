@@ -10,88 +10,75 @@
 
  }
  .help-dima-animation-1{
-    animation: helpHelp1 4s infinite;
+    animation: helpHelp1 5s ;
 }
 .help-dima-animation-2{
-    animation: helpHelp2 4s infinite;
+    animation: helpHelp2 5s ;
 }
 .help-dima-animation-3{
-    animation: helpHelp3 4s infinite;
+    animation: helpHelp3 5s ;
 }
 .help-dima-animation-4{
-    animation: helpHelp4 4s infinite;
+    animation: helpHelp4 5s ;
 }
 .help-dima-animation-5{
-    animation: helpHelp5 4s infinite;
+    animation: helpHelp5 5s ;
 }
 @keyframes helpHelp1{
-    0%{
-        opacity: 0;
-    }
-    10%{
-        opacity: 1;
-    }
-    90%{
-        opacity: 1;
-    }
-    100%{
-        opacity: 0;
-    }
- }
- @keyframes helpHelp2{
-    0%{
-        opacity: 0;
-    }
-    15%{
-        opacity: 1;
-    }
-    85%{
-        opacity: 1;
-    }
-    100%{
-        opacity: 0;
-    }
- }
- @keyframes helpHelp3{
     0%{
         opacity: 0;
     }
     20%{
         opacity: 1;
     }
-    80%{
+    
+    100%{
         opacity: 1;
     }
-    100%{
+ }
+ @keyframes helpHelp2{
+    0%{
         opacity: 0;
+    }
+    40%{
+        opacity: 1;
+    }
+    
+    100%{
+        opacity: 1;
+    }
+ }
+ @keyframes helpHelp3{
+    0%{
+        opacity: 0;
+    }
+    60%{
+        opacity: 1;
+    }
+    
+    100%{
+        opacity: 1;
     }
  }
  @keyframes helpHelp4{
     0%{
         opacity: 0;
     }
-    25%{
+    80%{
         opacity: 1;
     }
-    75%{
-        opacity: 1;
-    }
+    
     100%{
-        opacity: 0;
+        opacity: 1;
     }
  }
  @keyframes helpHelp5{
     0%{
         opacity: 0;
     }
-    30%{
-        opacity: 1;
-    }
-    70%{
-        opacity: 1;
-    }
+    
     100%{
-        opacity: 0;
+        opacity: 1;
     }
  }
  
